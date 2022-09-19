@@ -2,9 +2,5 @@
   {
     "package": "carpenter",
     "oncran": true
-  },
-  {
-    "package": "mason",
-    "oncran": true
   }
 ]
