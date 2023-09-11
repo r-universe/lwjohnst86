@@ -5,6 +5,3 @@
 [submodule "carpenter"]
 	path = carpenter
 	url = https://github.com/lwjohnst86/carpenter
-[submodule "mason"]
-	path = mason
-	url = https://github.com/lwjohnst86/mason
